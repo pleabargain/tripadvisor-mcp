@@ -21,7 +21,7 @@ The list of tools is configurable, so you can choose which tools you want to mak
 
 ## Usage
 
-1. Get your Tripadvisor Content API key from the [Tripadvisor Developer Portal](https://developer.tripadvisor.com/).
+1. Get your Tripadvisor Content API key from the [Tripadvisor Developer Portal](https://developer-tripadvisor.com/home/).
 
 2. Configure the environment variables for your Tripadvisor Content API, either through a `.env` file or system environment variables:
 
